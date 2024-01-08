@@ -29,27 +29,10 @@ This Currency Converter allows users to convert currencies by specifying the amo
 - FlagsAPI for country flags
 - currency-api by @fawazahmed0 for live currency rates
 
-## Preview
-
-![Currency Converter Preview](./assets/currency-converter-preview.png)
-
-## Getting Started
-
-To use the Currency Converter:
-
-1. Clone this repository.
-2. Open the `index.html` file in your web browser.
-
 ## Credits
 
 - **variousCountryListFormats.js:** @incredimike
 - **FlagsAPI:** `https://flagsapi.com/`
 - **currency-api:** @fawazahmed0
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
