@@ -92,5 +92,5 @@ getDataBtn.addEventListener("click", async function (e) {
 
   msgLabel.innerText = `${amountValue} ${fromCurrency.value} = ${finalAmount} ${toCurrency.value}`;
 
-  msgLabel.classList.remove("display-data");
+  msgLabel.classList.toggle("display-data");
 });
